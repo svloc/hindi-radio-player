@@ -1,0 +1,5 @@
+{
+  "name": "Hindi Radio Player",
+  "description": "An elegant web application to stream public Hindi radio stations from around the world, featuring a modern interface and a persistent audio player.",
+  "requestFramePermissions": []
+}
